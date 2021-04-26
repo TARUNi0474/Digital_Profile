@@ -35,8 +35,8 @@
 #### Projects:
 - Portfolio(Digital Profile)
 #### Certifications:
-- C,Java (NPTEL)
-- Machine Learning (Internshala)
-- Python (APSSDC)
+- C,Java ( NPTEL )
+- Machine Learning ( Internshala )
+- Python ( APSSDC )
 
 
